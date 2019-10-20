@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Welcome to the SupplyOn Jenkins Workshop',
+        'name' => 'Welcome to the SupplyOn Jenkins Workshop 2019',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
