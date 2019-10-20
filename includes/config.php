@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Welcome to the SupplyOn Jenkins Workshop',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
