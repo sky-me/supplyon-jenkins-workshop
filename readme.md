@@ -1,3 +1,10 @@
+# Technischer User
+
+* Application ID: 357a3f1d-a3c6-4c09-b3c2-8da9802cb802
+* Kennwort: Ct/JwEIBtSB3YD0@QLCk5ZJe3lxFd[G:
+* Subscription-ID: f0468dde-8080-46e2-b47b-6a1cb0abe566
+* Tenant-ID: 28966094-c809-495e-9ae5-2019d0372648
+
 # Simple PHP Website
 
 I put together this project while introducing a friend of mine to PHP. I decided to clean it up a bit and put it on Github so anyone new to PHP can have a taste of a **very simple and minimal** website built with PHP.
